@@ -1,4 +1,4 @@
-![image](https://github.com/gebher77/screenmusic/assets/169497254/67642ebc-23c5-4be6-a690-aded2b40205a)![image](https://github.com/gebher77/screenmusic/assets/169497254/4dbe5e67-e098-4923-9353-45b83ed24d77)# 🎵 Screen Sound Músicas 🎵
+# 🎵 Screen Sound Músicas 🎵
 
 Este projeto é uma aplicação Java baseada em Spring Boot que permite aos usuários cadastrar artistas, cadastrar músicas de artistas, listar todas as músicas e buscar músicas por artista. Todas as informações são salvas e consultadas em um banco de dados PostgreSQL. Este projeto foi desenvolvido para fins de estudo.
 
